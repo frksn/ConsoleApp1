@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Hello");
+            Console.WriteLine("Test upload DT");
         }
     }
 }
